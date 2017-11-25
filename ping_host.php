@@ -2,7 +2,7 @@
 
 # Install fping package on your machine first.
 
-if ( $_POST{token} != "<your app token goes here.>" ) {
+if ( $_POST{token} != "<your app Verification Token goes here>" ) {
   exit;
 }
 

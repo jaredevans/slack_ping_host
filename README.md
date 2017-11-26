@@ -2,4 +2,4 @@
 Slack custom slash command to ping a host
 
 More to come soon...
-<img src="http://zappy.jaredlog.com/slack_ping_output.png"></a>
+<img src="http://zappy.jaredlog.com/slack_pings_output.png"></a>

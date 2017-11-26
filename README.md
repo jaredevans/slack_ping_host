@@ -1,6 +1,8 @@
 # slack_ping_host
 A custom Slack slash command to ping a host.
 
+Install the fping package on the web server then place the php script to be run via web server.
+
 <img src="http://zappy.jaredlog.com/slack_pings_output.png"></a>
 
 The output will display three possible outcomes:
